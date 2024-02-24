@@ -1,0 +1,44 @@
+[
+  {
+    "ville": "Tokyo",
+    "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3326937.7401162013!2d137.12935345851028!3d35.48046824965551!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x605d1b87f02e57e7%3A0x2e01618b22571b89!2sTokyo%2C%20Japon!5e0!3m2!1sfr!2sca!4v1693569943774!5m2!1sfr!2sca"
+  },
+  {
+    "ville": "Paris",
+    "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d943611.4590352997!2d1.721669521909765!3d49.21226216815029!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e1f06e2b70f%3A0x40b82c3688c9460!2sParis%2C%20France!5e0!3m2!1sfr!2sca!4v1693570030634!5m2!1sfr!2sca"
+  },
+  {
+    "ville": "New-York",
+    "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d872547.7322278324!2d-74.0060!3d40.7128!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20%C3%89tats-Unis!5e0!3m2!1sfr!2sca"
+  },
+  {
+    "ville": "Londres",
+    "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d99237.4772664447!2d-0.1278!3d51.5074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487604e500000001%3A0x4e473823b2764f5e!2sLondres%2C%20Royaume-Uni!5e0!3m2!1sfr!2sca"
+  },
+  {
+    "ville": "Montréal",
+    "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d459211.07846890725!2d-73.5673!3d45.5017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91a5f5abdf7a7%3A0x654e7be96bdfb6b9!2sMontr%C3%A9al%2C%20Qu%C3%A9bec%2C%20Canada!5e0!3m2!1sfr!2sca"
+  },
+  {
+    "ville": "Nantes",
+    "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d409502.7882133518!2d-1.5536!3d47.2184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4805e42c5d6cb12b%3A0x406f440eec14e400!2sNantes%2C%20France!5e0!3m2!1sfr!2sca"
+  },
+  {
+    "ville": "Québec",
+    "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d174611.88239393098!2d-71.50972071939331!3d46.85725847281465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb8968a05db8893%3A0x8fc52d63f0e83a03!2zUXXDqWJlYywgUUM!5e0!3m2!1sfr!2sca!4v1693570096056!5m2!1sfr!2sca"
+  },
+  {
+    "ville": "Liverpool",
+    "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d95990.16348652922!2d-2.9916!3d53.4084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487b2128643891e5%3A0x5e57f6ff947e400a!2sLiverpool%2C%20Royaume-Uni!5e0!3m2!1sfr!2sca"
+  },
+  {
+    "ville": "Manchester",
+    "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96267.09754929065!2d-2.2446!3d53.4839!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487a4b0bc76e9ef5%3A0x529f3e7dc6cc6469!2sManchester%2C%20Royaume-Uni!5e0!3m2!1sfr!2sca"
+  },
+  {
+    "ville": "Bordeaux",
+    "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d113141.73110912632!2d-0.5792!3d44.8378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd505e6f16d35661%3A0x49455e5036f68995!2sBordeaux%2C%20France!5e0!3m2!1sfr!2sca"
+  }
+]
+
+  

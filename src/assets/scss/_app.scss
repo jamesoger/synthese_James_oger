@@ -1,0 +1,54 @@
+
+#app {
+ 
+   min-height: 100%;
+   text-align: center;
+  
+ }
+
+ footer {
+  border-top: 1px solid rgb(244, 243, 239);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+  color: rgb(255, 200, 0);
+  padding: 1em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+  img{
+    
+    margin: 3rem;
+  }
+  a{
+    color: white;
+  }
+}
+
+.left-section {
+  display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.middle-section {
+  text-align: center;
+}
+
+.right-section {
+  display: flex;
+  align-items: center;
+}
+
+
+ 
+
+ 
+
+
+
+
+ 
+ 
+ 
+ 

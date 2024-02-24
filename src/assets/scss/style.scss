@@ -1,0 +1,13 @@
+/*
+Fichier style.scss
+
+Ce fichier est le point d'entrée principal pour la compilation des styles de votre site web.
+Il importe tous les autres fichiers SCSS et définit l'ordre dans lequel ils doivent être inclus.
+Vous pouvez également ajouter ici des styles globaux ou des ajustements spécifiques pour l'ensemble du site.
+*/
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+@import 'boilerplate';
+@import 'app';
+@import 'wait';
+

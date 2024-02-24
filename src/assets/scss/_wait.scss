@@ -1,0 +1,18 @@
+.wait {
+	--taille: 200px;
+	background-image: repeating-linear-gradient(-45deg, #fff0, #fff2, #fff0, #0000, #0001, #0000, #fff0 50%);
+	background-size: var(--taille) var(--taille);
+	animation: wait 5s linear infinite;
+	backdrop-filter: blur(2px);
+	filter: blur(2px);
+	transition: all 2s ease-in;
+	cursor: wait;
+}
+@keyframes wait {
+	0% {
+		background-position-x: 0%;
+	}
+	100% {
+		background-position-x: 100%;
+	}
+}
