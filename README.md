@@ -1,5 +1,7 @@
 #Quidditch Battle
 
+<img src="url_de_l'image" alt="Nom de l'image" width="300"/>
+
 Plateforme permettant de localiser les matchs de ses équipes de quidditch préférées!
 
 ## Installation
