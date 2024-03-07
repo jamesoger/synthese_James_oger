@@ -1,6 +1,6 @@
 #Quidditch Battle
 
-<img src="/images/logo.png?raw=true" alt="Nom de l'image" width="300"/>
+<img src="public/images/logo.png?raw=true" alt="Nom de l'image" width="300"/>
 
 Plateforme permettant de localiser les matchs de ses équipes de quidditch préférées!
 
